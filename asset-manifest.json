@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/StudyHive-Ed-Tech-Platform/static/css/main.67233621.css",
+    "main.js": "/StudyHive-Ed-Tech-Platform/static/js/main.79e8ae01.js",
+    "static/media/banner.mp4": "/StudyHive-Ed-Tech-Platform/static/media/banner.8e687823b1422880cc3f.mp4",
+    "static/media/TimelineImage.png": "/StudyHive-Ed-Tech-Platform/static/media/TimelineImage.a610b1e5d891ac77fe93.png",
+    "static/media/Instructor.png": "/StudyHive-Ed-Tech-Platform/static/media/Instructor.8b4c4f204053f0dfe844.png",
+    "static/media/FoundingStory.png": "/StudyHive-Ed-Tech-Platform/static/media/FoundingStory.84f2828a5f4a9c08a802.png",
+    "static/media/Plan_your_lessons.svg": "/StudyHive-Ed-Tech-Platform/static/media/Plan_your_lessons.f123ccf442a2a364a459a7bbec807045.svg",
+    "static/media/Compare_with_others.svg": "/StudyHive-Ed-Tech-Platform/static/media/Compare_with_others.8e950efa990d53f34b35893a1e03cea1.svg",
+    "static/media/bghome.svg": "/StudyHive-Ed-Tech-Platform/static/media/bghome.de04eae287ff1d29f0b1.svg",
+    "static/media/rzp_logo.png": "/StudyHive-Ed-Tech-Platform/static/media/rzp_logo.db1cd7db1b52c2ed8e3d.png",
+    "static/media/Know_your_progress.png": "/StudyHive-Ed-Tech-Platform/static/media/Know_your_progress.cf3ea1c51544985430d3.png",
+    "static/media/frame.png": "/StudyHive-Ed-Tech-Platform/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/signup.webp": "/StudyHive-Ed-Tech-Platform/static/media/signup.acaf50bcb11d9aec44b4.webp",
+    "static/media/Logo-Full-Dark.png": "/StudyHive-Ed-Tech-Platform/static/media/Logo-Full-Dark.f88e5f16ec1c57ab037a.png",
+    "static/media/Logo-Full-Light.png": "/StudyHive-Ed-Tech-Platform/static/media/Logo-Full-Light.ec25b0a7417b75195526.png",
+    "static/media/login.webp": "/StudyHive-Ed-Tech-Platform/static/media/login.5eeb0b81544a40330d4b.webp",
+    "static/media/aboutus1.webp": "/StudyHive-Ed-Tech-Platform/static/media/aboutus1.86606deea209badf5925.webp",
+    "static/media/aboutus2.webp": "/StudyHive-Ed-Tech-Platform/static/media/aboutus2.0a1cd797ce3a69e81830.webp",
+    "static/media/aboutus3.webp": "/StudyHive-Ed-Tech-Platform/static/media/aboutus3.f5cfba861877ea03735d.webp",
+    "static/media/Logo2.svg": "/StudyHive-Ed-Tech-Platform/static/media/Logo2.2d9e85de9e756cda89ffc4582338c939.svg",
+    "static/media/Logo1.svg": "/StudyHive-Ed-Tech-Platform/static/media/Logo1.73daf51e41d665299fc682bc3cb53878.svg",
+    "static/media/Logo3.svg": "/StudyHive-Ed-Tech-Platform/static/media/Logo3.0a56f78fead602f0d54c55ddcdf7e616.svg",
+    "static/media/Logo4.svg": "/StudyHive-Ed-Tech-Platform/static/media/Logo4.5da4c6e0c53e6745b25529891ef82458.svg",
+    "index.html": "/StudyHive-Ed-Tech-Platform/index.html",
+    "main.67233621.css.map": "/StudyHive-Ed-Tech-Platform/static/css/main.67233621.css.map",
+    "main.79e8ae01.js.map": "/StudyHive-Ed-Tech-Platform/static/js/main.79e8ae01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67233621.css",
+    "static/js/main.79e8ae01.js"
+  ]
+}
