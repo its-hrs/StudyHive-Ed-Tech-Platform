@@ -41,13 +41,6 @@ function SignupForm() {
     }))
   }
 
-  function signupCallback (numFlag, capFlag, lenFlag) {
-    if(!numFlag){
-      toast.error("Number Missing");
-      return ;
-    } 
-
-  }
 
   // Handle Form Submission
   const handleOnSubmit = (e) => {
@@ -195,7 +188,7 @@ function SignupForm() {
         </div>
 
               {
-                password ? (<CheckPassword password={password} signupCallback={signupCallback} />) : ("")
+                password ? (<CheckPassword password={password} />) : ("")
               }
 
         <button
