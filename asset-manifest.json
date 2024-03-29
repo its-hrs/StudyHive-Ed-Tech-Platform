@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/StudyHive-Ed-Tech-Platform/static/css/main.67233621.css",
-    "main.js": "/StudyHive-Ed-Tech-Platform/static/js/main.0eb7ae27.js",
+    "main.js": "/StudyHive-Ed-Tech-Platform/static/js/main.702e89fd.js",
     "static/media/banner.mp4": "/StudyHive-Ed-Tech-Platform/static/media/banner.8e687823b1422880cc3f.mp4",
     "static/media/TimelineImage.png": "/StudyHive-Ed-Tech-Platform/static/media/TimelineImage.a610b1e5d891ac77fe93.png",
     "static/media/Instructor.png": "/StudyHive-Ed-Tech-Platform/static/media/Instructor.8b4c4f204053f0dfe844.png",
@@ -25,10 +25,10 @@
     "static/media/Logo4.svg": "/StudyHive-Ed-Tech-Platform/static/media/Logo4.5da4c6e0c53e6745b25529891ef82458.svg",
     "index.html": "/StudyHive-Ed-Tech-Platform/index.html",
     "main.67233621.css.map": "/StudyHive-Ed-Tech-Platform/static/css/main.67233621.css.map",
-    "main.0eb7ae27.js.map": "/StudyHive-Ed-Tech-Platform/static/js/main.0eb7ae27.js.map"
+    "main.702e89fd.js.map": "/StudyHive-Ed-Tech-Platform/static/js/main.702e89fd.js.map"
   },
   "entrypoints": [
     "static/css/main.67233621.css",
-    "static/js/main.0eb7ae27.js"
+    "static/js/main.702e89fd.js"
   ]
 }
