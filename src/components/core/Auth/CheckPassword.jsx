@@ -2,7 +2,7 @@ import React from 'react'
 import { RxCrossCircled } from "react-icons/rx";
 import { FaRegCheckCircle } from "react-icons/fa";
 
-const CheckPassword = ({password, signupCallback}) => {
+const CheckPassword = ( {password} ) => {
     var numFlag, capFlag, smallFlag, specialFlag, lenFlag;
     password = Array.from(password);
 
@@ -18,8 +18,6 @@ const CheckPassword = ({password, signupCallback}) => {
         if(specialChar.includes(el)) specialFlag = true;
         if(password.length >= 8) lenFlag = true;
     })
-    
-    signupCallback(numFlag, capFlag, lenFlag);
 
 
   return (
